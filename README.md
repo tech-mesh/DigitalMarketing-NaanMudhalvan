@@ -15,6 +15,10 @@ CANVA
 * TEAM MEMBER 2: SRIDHAR S (NMID :4BB050CADDFA6BCA18640EC1F04F0D4E)
 * TEAM MEMBER 3: JANARTHANAN V (NMID :5A2A530A121C9698ED64110A167A6F73)
 
+# ASSIGNMENT LINKS
+  * BLOG POST: https://hukumtechno.blogspot.com/2023/09/welcome-ot-hukum-tech.html
+  * FACEBOOK BUSINESS PAGE :  https://www.facebook.com/Maskofftechnology
+
 # Project Description
 In this project ,is going to be creating Brand Name, Brand Email and Brand Logo using
 Canva. After publish it is going to be uploaded in Github.
