@@ -18,6 +18,7 @@ CANVA
 # ASSIGNMENT LINKS
   * BLOG POST: https://hukumtechno.blogspot.com/2023/09/welcome-ot-hukum-tech.html
   * FACEBOOK BUSINESS PAGE :  https://www.facebook.com/Maskofftechnology
+  * E-MAIL NEWSLETTER : https://www.canva.com/design/DAFyvt-mgMU/-uDjdEn3wXga5e9_N_TLqw/edit?utm_content=DAFyvt-mgMU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Project Description
 In this project ,is going to be creating Brand Name, Brand Email and Brand Logo using
