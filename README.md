@@ -19,7 +19,7 @@ CANVA
 In this project ,is going to be creating Brand Name, Brand Email and Brand Logo using
 Canva. After publish it is going to be uploaded in Github.
 
-# Project Video
-
+# BRAND LOGO
+![maskoff logo](https://github.com/tech-mesh/DigitalMarketing-NaanMudhalvan/assets/131742220/eeb40ab7-1de6-48c2-a21d-611d1748ba3e)
 
 
